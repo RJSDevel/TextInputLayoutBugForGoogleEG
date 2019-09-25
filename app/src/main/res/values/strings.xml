@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="new_request_hint">Overlapping hint</string>
+</resources>
